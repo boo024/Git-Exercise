@@ -33,10 +33,7 @@ Email: chalathip.field@gmail.com
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
-
-💬 4. Quote
-
+![GIF Animation](Animation/GITGIF.gif)
 *** Read and Place TEXT from Quote.* here  ***
 
 🎬 5. Video Lecture
