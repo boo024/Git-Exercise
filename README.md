@@ -24,12 +24,12 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Chalathip Nimnoi
+Email: chalathip.field@gmail.com
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote Image](Picture/Quote.png)
 
 🎞️ 3. Animation
 
