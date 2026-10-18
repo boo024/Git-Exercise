@@ -36,6 +36,7 @@ Email: chalathip.field@gmail.com
 ![GIF Animation](Animation/GITGIF.gif)
 
 💬 4. Quote
+
 Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked
 
 
