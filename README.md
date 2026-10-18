@@ -34,6 +34,8 @@ Email: chalathip.field@gmail.com
 🎞️ 3. Animation
 
 ![GIF Animation](Animation/GITGIF.gif)
-*** Read and Place TEXT from Quote.* here  ***
 
+💬 4. Quote
+Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked
 🎬 5. Video Lecture
+https://youtu.be/alfmHTYsEU4?si=mEYsIQoS9TqnwypF
